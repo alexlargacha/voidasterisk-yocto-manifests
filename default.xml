@@ -13,10 +13,12 @@
 
   <project remote="xilinx"  revision="rel-v2020.2"      name="poky"                     path="sources/core"/>
   <project remote="xilinx"  revision="rel-v2020.2"      name="meta-openamp"             path="sources/meta-openamp"/>
+  <project remote="xilinx"  revision="rel-v2020.2"      name="meta-clang"               path="sources/meta-clang"/>
   <project remote="xilinx"  revision="rel-v2020.2"      name="meta-browser"             path="sources/meta-browser"/>
   <project remote="xilinx"  revision="rel-v2020.2"      name="meta-openembedded"        path="sources/meta-openembedded"/>
   <project remote="xilinx"  revision="rel-v2020.2"      name="meta-qt5"                 path="sources/meta-qt5"/>
   <project remote="xilinx"  revision="rel-v2020.2"      name="meta-virtualization"      path="sources/meta-virtualization"/>
+  <project remote="xilinx"  revision="rel-v2020.2"      name="meta-vitis-ai"            path="sources/meta-vitis-ai"/>
   <project remote="alexlargacha"  revision="refs/heads/master"      name="meta-voidasterisk"             path="sources/meta-voidasterisk"/>
 
 </manifest>
